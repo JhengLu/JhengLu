@@ -6,15 +6,15 @@ My name is Jiaheng Lu, and I'm a fourth-year undergraduate student at Central So
   <a href="https://github.com/MrDeering">
     <img
       align="center"
-      height="170em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrDeering&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true"
+      height="210em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrDeering&show_icons=true&theme=dark&bg_color=10,008B8B,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/MrDeering">
     <img
       align="center"
-      height="170em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrDeering&theme=dark&bg_color=50,008B8B,00bfff&layout=compact&text_color=fff"
+      height="210em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrDeering&theme=dark&bg_color=50,904e95,008B8B&layout=compact&text_color=fff"
     />
   </a>
 </p>
