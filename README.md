@@ -19,17 +19,28 @@ Welcome to my GitHub profile! I'm Jiaheng Lu, a fourth-year undergraduate studen
   </a>
 </p>
 
+
+
+<ul>
+  <li>🔭 I mainly focus on the Internet of Things(IoT).</li>
+  <li>🌱 I’m currently doing the research of creating effective incentive mechanisms to improve IoT system performance.</li>
+  <li>🔑 You can find the source code of my paper here, and the source code of some interesting projects.</li>
+  <li>😄 Pronouns: He/Him/His</li>
+  <li>🤗 Have a nice day!</li>
+</ul>
+
+
 <!--
 **MrDeering/MrDeering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the Internet of Things(IoT)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I mainly focus on the Internet of Things(IoT).
+- 🌱 I’m currently doing the research of creating effective incentive mechanisms to improve IoT system performance.
+- 👯 You can find the source code of my paper here, and the source code of some interesting projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
