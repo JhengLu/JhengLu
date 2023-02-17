@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Jiaheng Lu, a fourth-year undergraduate studen
 
 
 <ul>
-  <li>🔭 I mainly focus on the Internet of Things(IoT).</li>
+  <li>🔭 My primary focus is on the Internet of Things (IoT).</li>
   <li>🌱 I’m currently doing the research of creating effective incentive mechanisms to improve IoT system performance.</li>
   <li>🔑 You can find the source code of my paper here, and the source code of some interesting projects.</li>
   <li>😄 Pronouns: He/Him/His</li>
