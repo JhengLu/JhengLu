@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jiaheng Lu, and I'm a fourth-year undergraduate student at Central South University, where I'm conducting research in the field of Internet of Things (IoT).
+Welcome to my GitHub profile! I'm Jiaheng Lu, a fourth-year undergraduate student at Central South University. Here, you can find my latest and most interesting work and thoughts, including programming projects and other technological interests.
 
 
 <p align="center">
@@ -24,7 +24,7 @@ My name is Jiaheng Lu, and I'm a fourth-year undergraduate student at Central So
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on the Internet of Things(IoT)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
