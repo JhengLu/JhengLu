@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub profile! I'm Jiaheng Lu, a fourth-year undergraduate student at Central South University. Here, you can find my latest and most interesting work and thoughts, including programming projects and other technological interests.
+Welcome to my GitHub profile! 
 
 
 <p align="center">
