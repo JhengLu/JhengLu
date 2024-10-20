@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 <ul>
   <li>🔑 You can find the source code of my paper here, and the source code of some interesting projects.</li>
   <li>😄 Pronouns: He/Him/His</li>
-  <li>🤗 Have a nice day!</li>
+<!--   <li>🤗 Have a nice day!</li> -->
 </ul>
 
 
